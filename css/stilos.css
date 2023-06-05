@@ -30,7 +30,7 @@ body{
     font-weight: bold;
 
 }
-.navbar-dark .navbar-nav .nav-link:hover{
+.navbar-light .navbar-nav .nav-link:hover{
     color: rgba(0, 255, 255, 0.856);
     transition: all 1.s ease-in-out;
 }
@@ -40,13 +40,13 @@ body{
     font-weight: bold;
 }
 
-.container-2{
+.conteiner-2{
     display: flex;
     align-items: center;
     justify-content: center ;
     border-color: aliceblue;
 }
-.container-2 .img{
+.conteiner-2 .img{
     margin-left: 350px;
     padding: 5px;
     height: 300px;
